@@ -1,0 +1,12 @@
+mandi-api/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── scraper.py
+│   └── scheduler.py
+├── requirements.txt
+├── .env
+└── README.md
